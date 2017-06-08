@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/open1.png</file>
+        <file>Image/open2.png</file>
+        <file>Image/open3.png</file>
+        <file>Image/open4.png</file>
+        <file>Image/open5.png</file>
+        <file>Sound/bs1.wav</file>
+        <file>Sound/bs2.wav</file>
+        <file>Sound/bs3.wav</file>
+    </qresource>
+</RCC>

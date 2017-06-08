@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/endanimation1.png</file>
+        <file>Image/endanimation2.png</file>
+        <file>Image/endanimation3.png</file>
+        <file>Image/endanimation4.png</file>
+        <file>Image/endanimation5.png</file>
+        <file>Image/endanimation6.png</file>
+        <file>Image/endanimation7.png</file>
+        <file>Image/endanimation8.png</file>
+        <file>music/endmusic1.wav</file>
+        <file>music/endmusic2.wav</file>
+        <file>Image/go1.png</file>
+        <file>Image/go2.png</file>
+        <file>Image/go4.png</file>
+        <file>Image/go5.png</file>
+        <file>Image/go6.png</file>
+        <file>Image/go7.png</file>
+        <file>Image/ghostdown1.png</file>
+    </qresource>
+</RCC>
